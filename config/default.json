@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://adityadhayagude03:MyAtlas03@devconnector.yrbcb9r.mongodb.net/?retryWrites=true&w=majority&appName=DevConnector"
+    "mongoURI":"mongodb+srv://adityadhayagude03:MyAtlas03@devconnector.yrbcb9r.mongodb.net/?retryWrites=true&w=majority&appName=DevConnector",
+    "jwtSecret":"mysecrettoken"
 }
