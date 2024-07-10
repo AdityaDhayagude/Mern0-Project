@@ -1,4 +1,6 @@
 {
     "mongoURI":"mongodb+srv://adityadhayagude03:MyAtlas03@devconnector.yrbcb9r.mongodb.net/?retryWrites=true&w=majority&appName=DevConnector",
-    "jwtSecret":"mysecrettoken"
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"Ov23liZq3ppOMBKRQeq9",
+    "githubSecret":"04b536905a8d7dda364988c776de755d515f5b70"
 }
